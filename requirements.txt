@@ -1,0 +1,7 @@
+tensorflow-gpu
+ipykernel
+bs4
+lxml
+selenium
+pillow
+pytesseract
